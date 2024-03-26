@@ -2,7 +2,7 @@
 # Teste
 
 ## Backend
-1. Esta sendo armazenado ao banco, após realizar a consulta dos dados do ativo.
+1. Esta sendo armazenado ao banco, após realizar a consulta.
 2. Todo o backend foi preparado utilizando metodologias de clean code e entityFramework
 3. Banco de dados utilizado foi o SQL Server
 4. Todo o sistema esta em .NET 8.0
